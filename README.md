@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `electron .`
-(You need to run `npm run start` first).\
+(You need to run `npm start` first).\
 Starts the app in Electron in dev mode.\
 
 

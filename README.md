@@ -16,7 +16,7 @@ You may also see any lint errors in the console.
 
 ### `electron .`
 (You need to run `npm start` first).\
-Starts the app in Electron in dev mode.\
+Starts the app in Electron in dev mode
 
 
 ### `npm test`
@@ -29,7 +29,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Also needed if you want to run or build the app with Electron.\
+Also needed if you want to run or build the app with Electron
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
@@ -39,7 +39,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run electron-pack`
 
 Will build the app with electron.\
-After finishing, you will be able to install it or run it (/dist directory).\
+After finishing, you will be able to install it or run it (/dist directory)
 
 ### `npm run eject`
 
